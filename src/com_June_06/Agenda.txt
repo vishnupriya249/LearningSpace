@@ -1,0 +1,54 @@
+Constructors Demo - Employee.java
+
+If else
+Switch loops
+
+Exception handling
+input from console
+
+Abstraction  - body is not declared
+Encapsulation
+Inheritance - Single , Multilevel, Hierarchial
+Java doesnt support Multiple Inheritance
+p1   p2
+   ||
+   c1  
+But a concept of interface is there to achieve this
+where both parent classes became abstract classes
+so child have the body of the method.
+
+Nested Inheritance is possible
+ parent
+  |
+ child1
+  |
+ child2
+  |
+ child3
+  
+ parent
+ |   |
+ c1  c2
+Polymorphism
+
+overloading / compile time / static
+------------------------------------
+in one class
+Many methods with same name but different signatures.
+
+override/ Runtime / Dynamic
+----------------------------
+2 methods having same method name and same signature is called.
+--- need more than 1 class
+
+Reading data from 
+Files - Excel
+==================
+Properties File
+---------------
+KEY_VALUE pair --- (.properties)
+java class --- read the data
+Excel File - need to download jar files
+
+
+

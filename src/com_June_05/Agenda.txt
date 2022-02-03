@@ -1,0 +1,23 @@
+
+Java Program: --
+==========
+
+main() -- Object creation, Object is instance for the class
+variable
+user defined methods--- Logic
+constructors
+
+types of variables:--
+----------------------
+local - declared in a method
+static
+global or instance
+non-static
+
+
+method types: --
+-------------
+method no i/p , no o/p
+method no input, with output
+method with input , no output
+method with input , with output
